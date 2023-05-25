@@ -34,4 +34,4 @@ void execute(char *commands, char **arguments, general_t *info, char *buff);
 int current_directory(char *cmd, char **arguments, char *buff,
 		general_t *info);
 
-#endif /* COMMANDS_H 
+#endif /* COMMANDS_H */ 
